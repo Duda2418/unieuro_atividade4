@@ -57,8 +57,12 @@ def gerar_imagem_ppm_1gb(
 if __name__ == "__main__":
     gerar_imagem_ppm_1gb(
         caminho_saida="imagem_aleatoria_1gb.ppm",
-        largura=18918,
-        altura=18918,
+        largura=75672,
+        altura=75672,
         linhas_por_bloco=256,
         seed=42
     )
+
+#18918 x 18918 x 3 = 1.073.671.572 bytes
+#375672 x 375672 x 3 = 4.286.685.632 bytes (aprox 4 GiB)
+#75672 x 75672 x 3 = 17.146.742.528 bytes (aprox 16 GiB)
