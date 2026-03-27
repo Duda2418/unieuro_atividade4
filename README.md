@@ -155,7 +155,7 @@ A aplicação apresentou escalabilidade limitada, principalmente após ultrapass
 A eficiência caiu a partir de 4 threads devido a:
 Overhead de criação e gerenciamento de processos
 Sincronização na leitura/gravação das partes da imagem
-Contenção de memória/cache pela grande imagem (1 GB)
+Contenção de memória/cache pela grande imagem (1 GB).
 Possíveis gargalos: I/O do disco, overhead do Python, uso de memória para múltiplos processos.
 
 ---
