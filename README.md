@@ -1,6 +1,6 @@
 # Relatório da  ATIVIDADE 4
 
-**Disciplina:** 
+**Disciplina: Paralelismo** 
 **Aluno(s):Maria Eduarda, Stevan, Max, Luis Holanda**
 **Turma:ADS/SI**
 **Professor:Rafael**
