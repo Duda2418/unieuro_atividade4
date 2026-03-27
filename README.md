@@ -128,7 +128,7 @@ Preencha a tabela abaixo utilizando os tempos medidos.
 # 7. Gráfico de Tempo de Execução
 
 
-![Gráfico Tempo Execução](graficos/tempo_execucao.png)
+![Gráfico Tempo Execução]([graficos/tempo_execucao.png](https://github.com/Duda2418/unieuro_atividade4/blob/main/tempo.png))
 
 ---
 
